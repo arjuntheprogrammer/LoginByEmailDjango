@@ -1,0 +1,6 @@
+.vscode
+app/migrations
+adminComplaint/migrations
+*.pyc
+adminComplaint/__pycache__
+app/__pycache__

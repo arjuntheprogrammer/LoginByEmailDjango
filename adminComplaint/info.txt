@@ -1,3 +1,5 @@
+https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#a-full-example
+
 Here is an example of an admin-compliant custom user app. 
 This user model uses an email address as the username, and has a required date of birth; 
 it provides no permission checking, beyond a simple admin flag on the user account. 
